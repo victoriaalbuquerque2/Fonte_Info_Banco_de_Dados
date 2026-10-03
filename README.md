@@ -1,5 +1,5 @@
 # Fonte_info_Banco de dados
-Atividades realizadas durante o 1° semestre de GPI (Gestão da Produção Industrial), da matéria de Fonte e Informação de Banco de Dados 
+Atividades realizadas durante o 1° semestre de GPI (Gestão da Produção Industrial), da matéria de Fonte e Informação de Banco de Dados.
 
 
 # Atividade_análise_de_dados_ANTT
