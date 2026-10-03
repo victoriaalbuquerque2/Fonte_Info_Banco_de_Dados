@@ -22,3 +22,7 @@ https://canva.link/kh5zi7jbgoh6hto
 #Transpote_Multimodal
 https://github.com/victoriaalbuquerque2/power-bi-antt/raw/refs/heads/main/operador_transporte_multimodal.xlsx
 <img width="1600" height="547" alt="image" src="https://github.com/user-attachments/assets/426c2a09-b085-4e85-8a96-6ab267561dd0" />
+
+# Danos_Ambientais_power_BI
+
+<img width="1208" height="681" alt="image" src="https://github.com/user-attachments/assets/27b07e6e-5d7a-4bf3-9b38-525103a613a7" />
