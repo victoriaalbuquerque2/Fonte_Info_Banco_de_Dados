@@ -4,7 +4,8 @@ Atividades realizadas durante o 1° semestre de GPI (Gestão da Produção Indus
 
 # Atividade_powerBI_
 
-<img width="1317" height="720" alt="image"src
+<img width="713" height="595" alt="image" src="https://github.com/user-attachments/assets/0c462ce1-f463-4abd-956a-6ab9b787b099" />
+
 
 
 "https://github.com/user-attachments/assets/0a53d5a6-2b78-4246-baf5-8491d69de09b" 
